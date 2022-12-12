@@ -14,8 +14,6 @@ describe('Parabank demo site automation test', () => {
     cy.siteMap()
     cy.products()
 
-      
-
 
 })
 
