@@ -13,8 +13,6 @@ describe('Parabank demo site automation test', () => {
     cy.aboutUs()
     cy.siteMap()
     cy.products()
-
+  })
 
 })
-
-  })
